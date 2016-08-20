@@ -1,0 +1,12 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background on Blue Crab}{1}
+\contentsline {section}{\numberline {1.2}Basic Ecological Interactions}{2}
+\contentsline {section}{\numberline {1.3}Review of models of Intraguild Predation and Cannibalism}{4}
+\contentsline {section}{\numberline {1.4}Summary of Results}{7}
+\contentsline {chapter}{\numberline {2}Mathematical Model}{9}
+\contentsline {section}{\numberline {2.1}Model Setup}{9}
+\contentsline {section}{\numberline {2.2}Parameter Estimates}{11}
+\contentsline {section}{\numberline {2.3}Non-dimensionalization}{14}
+\contentsline {chapter}{\numberline {3}Analysis and Simulation of the Model}{17}
+\contentsline {chapter}{\numberline {4}Conclusions}{19}
+\contentsline {section}{\numberline {4.1}Acknowledgements}{21}

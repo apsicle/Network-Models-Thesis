@@ -1,0 +1,62 @@
+---
+title: "Thesis Simulations"
+author: "Ryan Yan"
+date: "Sunday, December 29, 2015"
+output: html_document
+---
+
+These are created using 'deterministic_ode.R' and 'stochastic_sim_nd.R' to run simulations
+
+First we load the parameters and make_plot functions.
+param(dimensions, v, b, d, K, times)
+```{r}
+source("params.R")
+param(2, 0.001, 0.01, 0.01, 100, 1000)
+source("stochastic_sim_nd.R")
+source("deterministic_ode.R")
+source("make_plots.R")
+```
+
+
+```{r, echo=FALSE}
+param(3, .01, 0.01, 0.01, 500, 100)
+system.time(stochastic <- stochastic_sim(P, b, d, state, max(times), K, v))
+out <- ode(y = state, times = times, func = deterministic_ode_solve, parms = parameters)
+out_map <- simulate(P, v, state, b, max(times))
+p <- make_plots()
+#p <- p + ggtitle("dim = 2, v = 0.001, {b,d} = 0.01, K = 500, times = 1000")
+p
+```
+
+```{r, echo=FALSE}
+param(1, 1, 0.5, 0.01, 1, 1000)
+system.time(stochastic <- stochastic_sim(P, b, d, state, max(times), K, v))
+out <- ode(y = state, times = times, func = deterministic_ode_solve, parms = parameters)
+out_map <- simulate(P,  v, state, r_0 = b, t = max(times))
+p <- make_plots()
+p <- p + ggtitle("dim = 2, v = 0.001, {b,d} = 0.01, K = 500, times = 1000")
+p
+```
+
+dim = 3, v = 1, 0.01 = {b,d}, 5000 = {N,K}, times = 100
+
+```{r, echo=FALSE}
+param(3, .001, 0.01, 0.01, 500, 1000)
+system.time(stochastic <- stochastic_sim(P, b, d, state, max(times), K, v))
+out <- ode(y = state, times = times, func = deterministic_ode_solve, parms = parameters)
+out_map <- simulate(P,  v, state, r_0 = b, t = max(times))
+p <- make_plots()
+#p <- p + ggtitle("dim = 3, v = .001, {b,d} = 0.01, K = 500, times = 1000")
+p
+```
+
+dim = 3, v = 0.001, 0.01 = {b,d}, 500 = {N,K}, times = 1000
+
+```{r, echo=FALSE}
+param(3, 0.001, 0.01, 0.01, 500, 1000)
+system.time(stochastic <- stochastic_sim(P, b, d, state, max(times), K, v))
+out <- ode(y = state, times = times, func = deterministic_ode_solve, parms = parameters)
+p <- make_plots()
+p <- p + ggtitle("dim = 3, v = 0.001, {b,d} = 0.01, K = 500, times = 1000")
+p
+```

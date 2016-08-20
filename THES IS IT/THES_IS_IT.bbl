@@ -1,0 +1,158 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Carlton(2003)]{carlton2003invasive}
+James Carlton.
+\newblock \emph{Invasive species: vectors and management strategies}.
+\newblock Island Press, 2003.
+
+\bibitem[Committee et~al.(2006)]{invasive2006invasive}
+Invasive Species~Advisory Committee et~al.
+\newblock Invasive species definition clarification and guidance white paper.
+  {National Invasive Species Council}.
+\newblock \emph{US Department of Agriculture, National Agricultural Library.
+  Washington, DC Available at
+  http://www.invasivespeciesinfo.gov/docs/council/isacdef. pdf}, 2006.
+
+\bibitem[Csardi and Nepusz(2006)]{csardi2006igraph}
+Gabor Csardi and Tamas Nepusz.
+\newblock The igraph software package for complex network research.
+\newblock \emph{InterJournal, Complex Systems}, 1695\penalty0 (5):\penalty0
+  1--9, 2006.
+
+\bibitem[Elith and Leathwick(2009)]{elith2009species}
+Jane Elith and John~R Leathwick.
+\newblock Species distribution models: ecological explanation and prediction
+  across space and time.
+\newblock \emph{Annual Review of Ecology, Evolution, and Systematics},
+  40\penalty0 (1):\penalty0 677, 2009.
+
+\bibitem[Ferrari et~al.(2014)Ferrari, Preisser, and
+  Fitzpatrick]{ferrari2014modeling}
+Joseph~R Ferrari, Evan~L Preisser, and Matthew~C Fitzpatrick.
+\newblock Modeling the spread of invasive species using dynamic network models.
+\newblock \emph{Biological invasions}, 16\penalty0 (4):\penalty0 949--960,
+  2014.
+
+\bibitem[Floerl et~al.(2009)Floerl, Inglis, Dey, and
+  Smith]{floerl2009importance}
+O~Floerl, GJ~Inglis, K~Dey, and A~Smith.
+\newblock The importance of transport hubs in stepping-stone invasions.
+\newblock \emph{Journal of Applied Ecology}, 46\penalty0 (1):\penalty0 37--45,
+  2009.
+
+\bibitem[Gillespie(1977)]{gillespie1977exact}
+Daniel~T Gillespie.
+\newblock Exact stochastic simulation of coupled chemical reactions.
+\newblock \emph{The journal of physical chemistry}, 81\penalty0 (25):\penalty0
+  2340--2361, 1977.
+
+\bibitem[Hulme(2009)]{hulme2009trade}
+Philip~E Hulme.
+\newblock Trade, transport and trouble: managing invasive species pathways in
+  an era of globalization.
+\newblock \emph{Journal of Applied Ecology}, 46\penalty0 (1):\penalty0 10--18,
+  2009.
+
+\bibitem[Kaluza et~al.(2010)Kaluza, K{\"o}lzsch, Gastner, and
+  Blasius]{kaluza2010complex}
+Pablo Kaluza, Andrea K{\"o}lzsch, Michael~T Gastner, and Bernd Blasius.
+\newblock The complex network of global cargo ship movements.
+\newblock \emph{Journal of the Royal Society Interface}, 7\penalty0
+  (48):\penalty0 1093--1103, 2010.
+
+\bibitem[Koch et~al.(2014)Koch, Yemshanov, Haack, and Magarey]{koch2014using}
+Frank~H Koch, Denys Yemshanov, Robert~A Haack, and Roger~D Magarey.
+\newblock Using a network model to assess risk of forest pest spread via
+  recreational travel.
+\newblock \emph{PloS one}, 9\penalty0 (7):\penalty0 e102105, 2014.
+
+\bibitem[Korolev et~al.(2014)Korolev, Xavier, and Gore]{korolev2014turning}
+Kirill~S Korolev, Joao~B Xavier, and Jeff Gore.
+\newblock Turning ecology and evolution against cancer.
+\newblock \emph{Nature Reviews Cancer}, 14\penalty0 (5):\penalty0 371--380,
+  2014.
+
+\bibitem[Latora and Marchiori(2001)]{latora2001efficient}
+Vito Latora and Massimo Marchiori.
+\newblock Efficient behavior of small-world networks.
+\newblock \emph{Physical review letters}, 87\penalty0 (19):\penalty0 198701,
+  2001.
+
+\bibitem[Mack et~al.(2000)Mack, Simberloff, Mark~Lonsdale, Evans, Clout, and
+  Bazzaz]{mack2000biotic}
+Richard~N Mack, Daniel Simberloff, W~Mark~Lonsdale, Harry Evans, Michael Clout,
+  and Fakhri~A Bazzaz.
+\newblock Biotic invasions: causes, epidemiology, global consequences, and
+  control.
+\newblock \emph{Ecological applications}, 10\penalty0 (3):\penalty0 689--710,
+  2000.
+
+\bibitem[Neubert and Parker(2004)]{neubert2004projecting}
+Michael~G Neubert and Ingrid~M Parker.
+\newblock Projecting rates of spread for invasive species.
+\newblock \emph{Risk Analysis}, 24\penalty0 (4):\penalty0 817--831, 2004.
+
+\bibitem[Pimentel et~al.(2005)Pimentel, Zuniga, and
+  Morrison]{pimentel2005update}
+David Pimentel, Rodolfo Zuniga, and Doug Morrison.
+\newblock Update on the environmental and economic costs associated with
+  alien-invasive species in the united states.
+\newblock \emph{Ecological economics}, 52\penalty0 (3):\penalty0 273--288,
+  2005.
+
+\bibitem[Reeves and Usher(1989)]{reeves1989application}
+Stuart~A Reeves and Michael~B Usher.
+\newblock Application of a diffusion model to the spread of an invasive
+  species: {The coypu in Great Britain}.
+\newblock \emph{Ecological modelling}, 47\penalty0 (3):\penalty0 217--232,
+  1989.
+
+\bibitem[Sharov and Liebhold(1998)]{sharov1998model}
+Alexei~A Sharov and Andrew~M Liebhold.
+\newblock Model of slowing the spread of gypsy moth (lepidoptera: Lymantriidae)
+  with a barrier zone.
+\newblock \emph{Ecological Applications}, 8\penalty0 (4):\penalty0 1170--1179,
+  1998.
+
+\bibitem[Strogatz(1994)]{strogatz1994nonlinear}
+Steven~H Strogatz.
+\newblock \emph{Nonlinear dynamics and chaos: with applications to physics,
+  biology, chemistry, and engineering}.
+\newblock Westview press, 1994.
+
+\bibitem[V{\'a}clav{\'\i}k and Meentemeyer(2009)]{vaclavik2009invasive}
+Tom{\'a}{\v{s}} V{\'a}clav{\'\i}k and Ross~K Meentemeyer.
+\newblock Invasive species distribution modeling (isdm): Are absence data and
+  dispersal constraints needed to predict actual distributions?
+\newblock \emph{Ecological Modelling}, 220\penalty0 (23):\penalty0 3248--3258,
+  2009.
+
+\bibitem[Walsh et~al.(1999)]{walsh1999search}
+Toby Walsh et~al.
+\newblock Search in a small world.
+\newblock In \emph{IJCAI}, volume~99, pages 1172--1177, 1999.
+
+\bibitem[Watts and Strogatz(1998)]{watts1998collective}
+Duncan~J Watts and Steven~H Strogatz.
+\newblock Collective dynamics of ‘small-world’networks.
+\newblock \emph{nature}, 393\penalty0 (6684):\penalty0 440--442, 1998.
+
+\bibitem[Williamson(1989)]{williamson1989mathematical}
+Mark Williamson.
+\newblock Mathematical models of invasion.
+\newblock 1989.
+
+\bibitem[Yan et~al.(2016)Yan, Wikle, Gauli, Gross, Simberloff, Chuang, and
+  Landerer]{yan2015transport}
+Ryan Yan, Nathan Wikle, Ashish Gauli, Louis Gross, Daniel Simberloff, Angela
+  Chuang, and Cedric Landerer.
+\newblock Projecting terrestrial species invasion spread using commodity flow
+  pathways.
+\newblock 2016.
+
+\end{thebibliography}

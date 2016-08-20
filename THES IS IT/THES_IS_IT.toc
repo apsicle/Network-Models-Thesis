@@ -1,0 +1,34 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background on Invasive Species}{1}
+\contentsline {section}{\numberline {1.2}Modeling Background}{2}
+\contentsline {subsection}{\numberline {1.2.1}Thesis Outline}{7}
+\contentsline {chapter}{\numberline {2}Deterministic Modeling}{8}
+\contentsline {section}{\numberline {2.1}1-Dimensional Model Formulation}{8}
+\contentsline {subsection}{\numberline {2.1.1}Rationale}{8}
+\contentsline {subsection}{\numberline {2.1.2}Model Specification}{8}
+\contentsline {subsection}{\numberline {2.1.3}Alternative Logistic Models}{9}
+\contentsline {section}{\numberline {2.2}1-Dimensional Stability Analysis}{10}
+\contentsline {subsection}{\numberline {2.2.1}Fixed points}{10}
+\contentsline {subsection}{\numberline {2.2.2}Stability of Fixed Points}{10}
+\contentsline {subsection}{\numberline {2.2.3}Interpretation}{11}
+\contentsline {section}{\numberline {2.3}Model Formulation in Higher Dimensions}{12}
+\contentsline {section}{\numberline {2.4}Analysis of 2-Dimensional System}{14}
+\contentsline {subsection}{\numberline {2.4.1}Stability Analysis}{15}
+\contentsline {section}{\numberline {2.5}Numerical Methods}{16}
+\contentsline {subsection}{\numberline {2.5.1}Discrete Map}{16}
+\contentsline {subsection}{\numberline {2.5.2}ODE Model}{17}
+\contentsline {subsection}{\numberline {2.5.3}Deterministic Model Agreement}{18}
+\contentsline {chapter}{\numberline {3}Small World Networks}{21}
+\contentsline {section}{\numberline {3.1}Background}{21}
+\contentsline {section}{\numberline {3.2}Small World Methods}{22}
+\contentsline {subsection}{\numberline {3.2.1}Extension to Invasion Model}{23}
+\contentsline {section}{\numberline {3.3}Results}{26}
+\contentsline {chapter}{\numberline {4}Stochastic Modeling}{32}
+\contentsline {section}{\numberline {4.1}Stochastic Model}{32}
+\contentsline {subsection}{\numberline {4.1.1}Results}{34}
+\contentsline {chapter}{\numberline {5}Conclusions}{39}
+\contentsline {section}{\numberline {5.1}Summary}{39}
+\contentsline {section}{\numberline {5.2}Future Work}{41}
+\contentsline {subsection}{\numberline {5.2.1}Allee Effect}{41}
+\contentsline {subsection}{\numberline {5.2.2}Networks}{41}
+\contentsline {section}{\numberline {5.3}Acknowledgements}{42}
